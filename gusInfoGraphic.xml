@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Infografika - Światowy Dzień Społeczeństwa Informacyjnego 2021]]></title>
+			<pubDate><![CDATA[Mon, 17 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-swiatowy-dzien-spoleczenstwa-informacyjnego-2021,91,2.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-swiatowy-dzien-spoleczenstwa-informacyjnego-2021,91,2.html</guid>
+			<description><![CDATA[]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Międzynarodowy Dzień Rodzin]]></title>
+			<pubDate><![CDATA[Fri, 14 May 2021 11:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-miedzynarodowy-dzien-rodzin,103,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-miedzynarodowy-dzien-rodzin,103,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/103/1/1/dzien_rodzin-01.png" type="image/png" width="1024" height="1711">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/103/1/1/dzien_rodzin-01,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/103/1/1/dzien_rodzin-01,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w kwietniu 2021 r.]]></title>
+			<pubDate><![CDATA[Fri, 23 Apr 2021 08:30:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-kwietniu-2021-r-,38,56.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-kwietniu-2021-r-,38,56.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/38/56/1/infografika_koniunktura_gospodarcza_04__2021.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/56/1/infografika_koniunktura_gospodarcza_04__2021,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/56/1/infografika_koniunktura_gospodarcza_04__2021,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Wielkanoc 2021]]></title>
+			<pubDate><![CDATA[Fri, 02 Apr 2021 10:15:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-wielkanoc-2021,90,2.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-wielkanoc-2021,90,2.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/90/2/1/wielkanoc_jaja_2021-01__kopia.png" type="image/png" width="823" height="463">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/90/2/1/wielkanoc_jaja_2021-01__kopia,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/90/2/1/wielkanoc_jaja_2021-01__kopia,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Narodowy Spis Ludności i Mieszkań 2021]]></title>
+			<pubDate><![CDATA[Thu, 01 Apr 2021 07:30:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-narodowy-spis-ludnosci-i-mieszkan-2021,102,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-narodowy-spis-ludnosci-i-mieszkan-2021,102,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/102/1/1/nsp_2021_infografika_slajder.png" type="image/png" width="590" height="331">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/102/1/1/nsp_2021_infografika_slajder,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/102/1/1/nsp_2021_infografika_slajder,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Powszechny Spis Ludności 1921]]></title>
+			<pubDate><![CDATA[Tue, 09 Mar 2021 11:49:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-powszechny-spis-ludnosci-1921,101,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-powszechny-spis-ludnosci-1921,101,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/101/1/1/spis_powszechny_1921.jpg" type="image/jpeg" width="4267" height="8326">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/101/1/1/spis_powszechny_1921,k1uUwl-caFOE6tCTiHtf.jpg" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/101/1/1/spis_powszechny_1921,k1uUwl-caFOE6tCTiHtf.jpg" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Dzień Statystyki Polskiej]]></title>
+			<pubDate><![CDATA[Tue, 09 Mar 2021 09:44:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/dzien-statystyki-polskiej,100,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/dzien-statystyki-polskiej,100,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/100/1/1/590x331_slider_dzien_statystyki_2021_01.png" type="image/png" width="590" height="331">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/100/1/1/590x331_slider_dzien_statystyki_2021_01,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/100/1/1/590x331_slider_dzien_statystyki_2021_01,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Międzynarodowy Dzień Kobiet 8 marca 2021]]></title>
+			<pubDate><![CDATA[Mon, 08 Mar 2021 13:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-miedzynarodowy-dzien-kobiet-8-marca-2021,25,6.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-miedzynarodowy-dzien-kobiet-8-marca-2021,25,6.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/25/6/1/dzien_kobiet_2021_obszar_roboczy_1_2_3.png" type="image/png" width="1024" height="1771">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/25/6/1/dzien_kobiet_2021_obszar_roboczy_1_2_3,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/25/6/1/dzien_kobiet_2021_obszar_roboczy_1_2_3,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura Gospodarcza w lutym 2021 r.]]></title>
+			<pubDate><![CDATA[Tue, 23 Feb 2021 13:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-lutym-2021-r-,99,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-lutym-2021-r-,99,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/99/1/1/infografika_koniunktura_gospodarcza_02_2021.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/99/1/1/infografika_koniunktura_gospodarcza_02_2021,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/99/1/1/infografika_koniunktura_gospodarcza_02_2021,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Walentynki-Dzień Zakochanych]]></title>
+			<pubDate><![CDATA[Fri, 12 Feb 2021 07:18:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-walentynki-dzien-zakochanych,98,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-walentynki-dzien-zakochanych,98,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/98/1/1/walentynki_2021-01.png" type="image/png" width="1024" height="1358">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/98/1/1/walentynki_2021-01,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/98/1/1/walentynki_2021-01,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+	</channel>
+</rss>
