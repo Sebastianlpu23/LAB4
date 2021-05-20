@@ -1,11 +1,11 @@
-package pl.lublin.wsei.java.cwiczenia;
+package test;
 
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 
-public class test {
+public class TestFileRead {
     public static void main(String[] args){
 
         try{

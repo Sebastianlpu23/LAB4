@@ -10,12 +10,17 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        Parent root = FXMLLoader.load(getClass().getResource("gusInfoGraphic.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("gusInfoGraphic.fxml"));
+        Parent root = loader.load();
+        Controller controller = loader.getController();
+        controller.setHostServices(this.getHostServices());
+        controller.setStage(primaryStage);
+
         primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 300, 275));
+        primaryStage.setScene(new Scene(root, 800, 700));
         primaryStage.show();
     }
-
+//test1
 
     public static void main(String[] args) {
         launch(args);
