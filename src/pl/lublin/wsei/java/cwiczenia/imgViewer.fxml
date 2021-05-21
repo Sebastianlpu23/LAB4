@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.ImageView?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="464.0" prefWidth="643.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.lublin.wsei.java.cwiczenia.ImgViewer">
+    <content>
+        <ImageView fx:id="imgView" fitHeight="400.0" fitWidth="300.0" pickOnBounds="true" preserveRatio="true">
+         <viewport>
+            <Rectangle2D height="700.0" width="800.0" />
+         </viewport></ImageView>
+    </content>
+</ScrollPane>
